@@ -1,0 +1,22 @@
+{
+  "name": "panchapp",
+  "version": "1.0.0",
+  "description": "This is the Panchapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hseghetti/panchapp.git"
+  },
+  "keywords": [
+    "panchapp"
+  ],
+  "author": "Hernan Seghetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hseghetti/panchapp/issues"
+  },
+  "homepage": "https://github.com/hseghetti/panchapp#readme"
+}
