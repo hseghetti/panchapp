@@ -1,0 +1,14 @@
+.home {
+		background-color: #cccccc;
+		height: 100vh;
+		width: 100%;
+
+		&-header {
+			background-color: #42b48e;
+		}
+
+		&-body {
+			background-color: #fcf5f4;
+			border-radius: 5px;
+		}
+}
